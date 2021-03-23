@@ -1,0 +1,18 @@
+Variables
+    Son contenedores de valor a los que se les asigna un nombre, ej:
+            var nombreDeVar = "valor"
+
+Strings
+    Son bloques  de texto y siempre se identifican entre comillas dobles o simples.
+
+Funciones (argumentos, return)
+    Declarada la funcion, luego del nombre y entre parentesis va el argumento que es una lista de parametros de la funcion. Ej:
+        function nombreFunction(argumento)
+    Todo lo que vaya entre parentesis es un argumento y se pueden agregar mas colocando una coma entre ellos.
+    Con return la funcion devuelve el dato especificado
+    
+Declaraciones if
+    Son controladores de flujo, de esta forma la funcion verifica si algo es verdadero. Si lo es, deja correr el codigo y si no, solo lo omite.
+
+Valores booleanos (true, false)
+    Son valores que se utilizan para probar una condicion(true/false). Se utiliza mucho en conjunto con operadores de comparacion(</>/etc)
